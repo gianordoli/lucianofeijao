@@ -3,7 +3,7 @@
 	import images from '../../data/imagedata.json';
 	import { work } from '../../data/doc.json';
 
-	const imagesPath = '/images/';
+	const imagesPath = 'images/';
 	images.map(img => {
 		const { slug, sizes, extension, hasRetina } = img;
 		img.srcset = sizes.reduce((acc, curr, index, array) => {
