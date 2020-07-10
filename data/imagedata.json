@@ -1,8 +1,8 @@
 [
 	{
-		"slug": "feijao-01",
+		"slug": "a-morte-de-ivan-illitch-1",
 		"extension": "jpg",
-		"ratio": 1.4511363636363637,
+		"ratio": 1,
 		"sizes": [
 			180,
 			300,
@@ -15,9 +15,474 @@
 		"hasRetina": true
 	},
 	{
-		"slug": "feijao-02",
+		"slug": "a-morte-de-ivan-illitch-4",
 		"extension": "jpg",
-		"ratio": 1.4423076923076923,
+		"ratio": 1,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "amas-1",
+		"extension": "jpg",
+		"ratio": 1.2828947368421053,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "amas-11",
+		"extension": "jpg",
+		"ratio": 1,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "amas-2",
+		"extension": "jpg",
+		"ratio": 1.2785087719298245,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "amas-3",
+		"extension": "jpg",
+		"ratio": 0.6151315789473685,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "amas-5",
+		"extension": "jpg",
+		"ratio": 1.5,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "amas-9",
+		"extension": "jpg",
+		"ratio": 0.6666666666666666,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "antianatomia-12",
+		"extension": "jpg",
+		"ratio": 0.75,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "antianatomia-14",
+		"extension": "jpg",
+		"ratio": 1.5182998819362457,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "antianatomia-2",
+		"extension": "jpg",
+		"ratio": 0.66748046875,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "diario-do-hospicio-1",
+		"extension": "jpg",
+		"ratio": 1.484087591240876,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "diario-do-hospicio-2",
+		"extension": "jpg",
+		"ratio": 0.7413138686131386,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "diario-do-hospicio-3",
+		"extension": "jpg",
+		"ratio": 0.6672158154859967,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "diario-do-hospicio-4",
+		"extension": "jpg",
+		"ratio": 1.4843795620437956,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "diario-do-hospicio-5",
+		"extension": "jpg",
+		"ratio": 1.481924198250729,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "diario-do-hospicio-6",
+		"extension": "jpg",
+		"ratio": 0.6666666666666666,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "diario-do-hospicio-9",
+		"extension": "jpg",
+		"ratio": 1.4833333333333334,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "folha-de-sao-paulo-1",
+		"extension": "jpg",
+		"ratio": 0.48804780876494025,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "outros-projetos-10",
+		"extension": "jpg",
+		"ratio": 1.5647517039922103,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "outros-projetos-13",
+		"extension": "jpg",
+		"ratio": 1.4143646408839778,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "outros-projetos-16",
+		"extension": "jpg",
+		"ratio": 1.4141961231470923,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "outros-projetos-21",
+		"extension": "jpg",
+		"ratio": 0.7274900398406374,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "outros-projetos-4",
+		"extension": "jpg",
+		"ratio": 0.8348736906962415,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "outros-projetos-5",
+		"extension": "jpg",
+		"ratio": 0.6658364466583645,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "outros-projetos-6",
+		"extension": "jpg",
+		"ratio": 1.4092570036540804,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "torcoes-1",
+		"extension": "jpg",
+		"ratio": 1.4340712223291627,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "torcoes-10",
+		"extension": "jpg",
+		"ratio": 0.6798387096774193,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "torcoes-11",
+		"extension": "jpg",
+		"ratio": 1.338095238095238,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "torcoes-2",
+		"extension": "jpg",
+		"ratio": 1.410182516810759,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "torcoes-3",
+		"extension": "jpg",
+		"ratio": 1.3976608187134503,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "torcoes-7",
+		"extension": "jpg",
+		"ratio": 0.6666666666666666,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
+		"slug": "torcoes-9",
+		"extension": "jpg",
+		"ratio": 1.4,
 		"sizes": [
 			180,
 			300,
