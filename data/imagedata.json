@@ -30,6 +30,21 @@
 		"hasRetina": true
 	},
 	{
+		"slug": "a-morte-de-ivan-illitch-6",
+		"extension": "jpg",
+		"ratio": 0.6961506961506961,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
 		"slug": "amas-1",
 		"extension": "jpg",
 		"ratio": 1.2828947368421053,

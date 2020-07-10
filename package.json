@@ -11,7 +11,8 @@
     "cy:open": "cypress open",
     "test": "run-p --race dev cy:run",
     "download": "node scripts/data-download",
-    "images": "node scripts/media-processing"
+    "images": "node scripts/media-processing",
+    "deploy" : "npm run export && git add . && git commit -m \"New build\" && git subtree push --prefix __sapper__/export origin gh-pages"
   },
   "dependencies": {
     "compression": "^1.7.1",
