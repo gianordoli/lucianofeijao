@@ -1,5 +1,4 @@
 <script>
-	import _ from 'lodash';
 	import 'lazysizes';
 	import images from '../../data/imagedata.json';
 	import { work } from '../../data/doc.json';
@@ -27,7 +26,11 @@
 	function processImage(item) {
 		const slug = item.value.slug.substring(0, item.value.slug.indexOf('.'));
 		const imageData = getImageData(slug);
-		if (imageData) item.value = Object.assign(item.value, imageData);
+		if (imageData) {
+			item.value = Object.assign(item.value, imageData);
+		} else {
+			console.log(`Could not find imageData for ${slug}`);
+		}
 	}	
 
 </script>
@@ -35,13 +38,20 @@
 <svelte:head>
 	<title>Luciano Feijão</title>
 </svelte:head>
+
+<div class="grid">
 {#each work as { type, value }}
-	<img alt="{value.caption}" data-sizes="auto" data-src="{value.src}" data-srcset="{value.srcset}" class="big lazyload"/>
-	<p>{value.caption}</p>
+	<img alt="" data-sizes="auto" data-src="{value.src}" data-srcset="{value.srcset}" class="big lazyload"/>
 {/each}
+</div>
 
 <style>
-
+	
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(12, 1fr);
+		grid-gap: 20px;
+	}
 
 	img {
 		width: 100%;
@@ -50,7 +60,11 @@
 	}
 
 	img.big {
-		width: 100%;
-		max-width: unset;
+		grid-column-start: 1;
+		grid-column-end: span 5;
 	}
+
+	img.big:nth-child(even) {
+		grid-column-start: 6;
+	}	
 </style>
