@@ -12,7 +12,7 @@ const init = doc => {
   const metaData = {};
   metaData.images = JSON.parse(fs.readFileSync('./data/imagedata.json'));
 
-  const transformedDoc = Object.keys(doc).map(pageName => {
+  const transformedDoc = Object.keys(doc).reduce((acc, pageName) => {
     const page = doc[pageName].map(item => {
       const { type } = item;
       if (Object.keys(transformers).indexOf(type) > -1) {
@@ -23,8 +23,9 @@ const init = doc => {
         return item;
       }
     });
-    return page;
-  });
+    acc[pageName] = page;
+    return acc;
+  }, {});
 
   return transformedDoc;
 }

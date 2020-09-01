@@ -1,11 +1,11 @@
-[
-  [
+{
+  "about": [
     {
       "type": "text",
       "value": "<a href=\"https://www.youtube.com/watch?v=Yw6u6YkTgQ4\">hello, world</a>"
     }
   ],
-  [
+  "work": [
     {
       "type": "image",
       "value": {
@@ -322,4 +322,4 @@
       }
     }
   ]
-]
+}
