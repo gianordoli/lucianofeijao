@@ -10,9 +10,9 @@
     "cy:run": "cypress run",
     "cy:open": "cypress open",
     "test": "run-p --race dev cy:run",
-    "download": "node scripts/data-download",
+    "download": "node scripts/download",
     "images": "node scripts/media-processing",
-    "deploy" : "npm run export && git add . && git commit -m \"New build\" && git subtree push --prefix __sapper__/export origin gh-pages"
+    "deploy": "npm run export && git add . && git commit -m \"New build\" && git subtree push --prefix __sapper__/export origin gh-pages"
   },
   "dependencies": {
     "compression": "^1.7.1",
@@ -37,7 +37,7 @@
     "html-entities": "^1.3.1",
     "htmlparser2": "^4.1.0",
     "image-size": "^0.8.3",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
     "npm-run-all": "^4.1.5",
     "queue-async": "^1.2.1",
