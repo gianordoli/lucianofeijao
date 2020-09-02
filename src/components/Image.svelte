@@ -20,7 +20,7 @@
 
 	.image-container.big {
 		grid-column-start: 1;
-		grid-column-end: span 5;
+		grid-column-end: span 4;
 	}
 
 	.image-container.big:nth-child(even) {

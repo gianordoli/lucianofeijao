@@ -12,10 +12,11 @@
     "test": "run-p --race dev cy:run",
     "download": "node scripts/download",
     "images": "node scripts/media-processing",
-    "deploy": "npm run export && git add . && git commit -m \"New build\" && git subtree push --prefix __sapper__/export origin gh-pages"
+    "deploy": "npm run export &&  && node ./scripts/gh-pages.js"
   },
   "dependencies": {
     "compression": "^1.7.1",
+    "gh-pages": "^3.1.0",
     "googleapis": "^39.2.0",
     "lazysizes": "^5.2.2",
     "polka": "next",
