@@ -300,6 +300,21 @@
 		"hasRetina": true
 	},
 	{
+		"slug": "luciano-feijao",
+		"extension": "jpg",
+		"ratio": 1.1149825783972125,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
 		"slug": "outros-projetos-10",
 		"extension": "jpg",
 		"ratio": 1.5647517039922103,

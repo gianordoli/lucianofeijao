@@ -1,6 +1,5 @@
 <script>
 	import 'lazysizes';
-	import images from '../../data/imagedata.json';
 	import { work } from '../../data/transformed-doc.json';
 </script>
 

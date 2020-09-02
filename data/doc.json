@@ -2,7 +2,26 @@
   "about": [
     {
       "type": "text",
-      "value": "<a href=\"https://www.youtube.com/watch?v=Yw6u6YkTgQ4\">hello, world</a>"
+      "value": "Luciano Feijão is an educator, artist and illustrator born in Vitória, Brazil. His latest exhibits examine racial-ethnic themes, portraying the black population in opposition to the processes of stigmatization and annihilation it has been subjected to."
+    },
+    {
+      "type": "text",
+      "value": "His work is characterized by its gestural expressiveness, the density of its shapes and the use of alternative drawing tools."
+    },
+    {
+      "type": "text",
+      "value": "His recent field of research, titled Antianatomy, explores the racist biases in pseudo-scientific policies."
+    },
+    {
+      "type": "text-pt",
+      "value": "Luciano Feijão nasceu em Vitória, no Espírito Santo, e é professor, artista visual e ilustrador. Suas três últimas exposições foram dedicadas aos temas étnico-raciais, evidenciando a população negra em contraponto à estigmatização e às formas de aniquilamento.  Seu trabalho tem como principal característica a forte expressividade gestual, a densidade das formas e as experiências com ferramentas alternativas. Sua pesquisa atual, intitulada Antianatomia, pretende discutir, pela via do desenho, as práticas racistas aliadas a políticas cientificistas."
+    },
+    {
+      "type": "image",
+      "value": {
+        "slug": "luciano-feijao.jpg",
+        "caption": ""
+      }
     }
   ],
   "work": [
@@ -59,21 +78,21 @@
       "type": "image",
       "value": {
         "slug": "a-morte-de-ivan-illitch-1.jpg",
-        "caption": "Illustration for the book “The Death of Ivan Illitch,” published by Antofágica, 2020"
+        "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "a-morte-de-ivan-illitch-4.jpg",
-        "caption": "Illustration for the book “The Death of Ivan Illitch,” published by Antofágica, 2020"
+        "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "a-morte-de-ivan-illitch-6.jpg",
-        "caption": "Illustration for the book “The Death of Ivan Illitch,” published by Antofágica, 2020"
+        "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020"
       }
     },
     {
@@ -192,63 +211,63 @@
       "type": "image",
       "value": {
         "slug": "folha-de-sao-paulo-1.jpg",
-        "caption": "Ilustração para Folha de São Paulo, 2010"
+        "caption": "Illustration for the newspaper Folha de São Paulo, 2010",
+        "caption-pt": "Ilustração para Folha de São Paulo, 2010"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "outros-projetos-4.jpg",
-        "caption": "Tk tk tk título, tk ano"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "outros-projetos-4.jpg",
-        "caption": "Tk tk tk título, tk ano"
+        "caption": "Cover for the book “Canções de um Sonhador Morto & Grimscribe,” by Thomas Ligotti, published by Companhia das Letras, 2018. Not published",
+        "caption-pt": "Capa para o livro “Canções de um Sonhador Morto & Grimscribe”, do escritor americano de terror Thomas Ligotti, publicado pela editora Companhia das Letras, 2018. Não publicado"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "outros-projetos-5.jpg",
-        "caption": "Tk tk tk título, tk ano"
+        "caption": "Torções, 2012"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "outros-projetos-6.jpg",
-        "caption": "Tk tk tk título, tk ano"
+        "caption": "Deserto Gráfico, 2012",
+        "caption-pt": "Exposição Deserto Gráfico, Galeria Homero Massena, Vitória, 2012"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "outros-projetos-10.jpg",
-        "caption": "Tk tk tk título, tk ano"
+        "caption": "Illustration for the book “O Orangotango Marxista”, by Marcelo Rubens Paiva, published by Companhia das Letras, 2018",
+        "caption-pt": "Ilustração para a capa do livro “O Orangotango Marxista”, de Marcelo Rubens Paiva, publicado pela editora Companhia das Letras, 2018"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "outros-projetos-13.jpg",
-        "caption": "Tk tk tk título, tk ano"
+        "caption": "Illustration for the movie poster of “A Mulher e o Rio,” directed by Bernard Lessa, 2018",
+        "caption-pt": "Ilustração para o cartaz do filme “A Mulher e o Rio”, dirigido por Bernard Lessa, 2018"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "outros-projetos-16.jpg",
-        "caption": "Tk tk tk título, tk ano"
+        "caption": "Black man’s face, personal project, 2018",
+        "caption-pt": "Rosto de homem negro, projeto pessoal, 2018"
       }
     },
     {
       "type": "image",
       "value": {
         "slug": "outros-projetos-21.jpg",
-        "caption": "Tk tk tk título, tk ano"
+        "caption": "Illustration study for “A Morte de Ivan Ilitch”, by Leo Tolstoy, published by Antofágica, 2020",
+        "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Ilitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020"
       }
     }
   ]
