@@ -21,7 +21,8 @@
       "value": {
         "slug": "luciano-feijao.jpg",
         "caption": "",
-        "src": "images/luciano-feijao.jpg"
+        "src": "images/luciano-feijao-1050.jpg",
+        "srcset": "images/luciano-feijao-180.jpg 180w, images/luciano-feijao-180_x2.jpg 360w,images/luciano-feijao-300.jpg 300w, images/luciano-feijao-300_x2.jpg 600w,images/luciano-feijao-460.jpg 460w, images/luciano-feijao-460_x2.jpg 920w,images/luciano-feijao-720.jpg 720w, images/luciano-feijao-720_x2.jpg 1440w,images/luciano-feijao-1050.jpg 1050w, images/luciano-feijao-1050_x2.jpg 2100w,images/luciano-feijao-1440.jpg 1440w, images/luciano-feijao-1440_x2.jpg 2880w,images/luciano-feijao-2000.jpg 2000w, images/luciano-feijao-2000_x2.jpg 4000w"
       }
     }
   ],
