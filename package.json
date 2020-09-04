@@ -12,7 +12,7 @@
     "test": "run-p --race dev cy:run",
     "download": "node scripts/download",
     "images": "node scripts/media-processing",
-    "deploy": "npm run export &&  && node ./scripts/gh-pages.js"
+    "deploy": "npm run export && node ./scripts/gh-pages.js"
   },
   "dependencies": {
     "compression": "^1.7.1",

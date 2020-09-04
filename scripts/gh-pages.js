@@ -1,4 +1,7 @@
 var ghpages = require('gh-pages');
+var fs = require('fs');
+
+fs.writeFile('__sapper__/export/CNAME', "lucianofeijao.com", function (err) { });
 
 ghpages.publish(
   // '__sapper__/export/yourproject',// <-- replace yourproject with your repo name

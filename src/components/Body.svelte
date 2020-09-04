@@ -14,7 +14,3 @@
     <Text {value} />
   {/if}
 {/each}
-
-<style>
-
-</style>
