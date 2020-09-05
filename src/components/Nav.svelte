@@ -4,6 +4,7 @@
 
 <style>
 	nav {
+    box-sizing: border-box;
     position: fixed;
     top: 0;
     left: 0;
@@ -11,10 +12,12 @@
     z-index: 1;
     display: flex;
     justify-content: space-between;
+    align-items: flex-end;
+    padding: calc(var(--main-padding)*1.5) calc(var(--main-padding)*2) 0;
   }
   
   h1 {
-    
+    margin-bottom: 0;
   }
 
 	ul {
@@ -42,18 +45,22 @@
 	[aria-current]::after {
 		position: absolute;
 		content: '';
-		width: calc(100% - 1em);
+		width: 100%;
 		height: 2px;
-		background-color: rgb(255,62,0);
+		background-color: #333;
 		display: block;
 		bottom: -1px;
 	}
 
 	a {
 		text-decoration: none;
-		padding: 1em 0.5em;
+		/* padding: 1em 0.5em; */
 		display: block;
-	}
+  }
+  
+  li:not(:last-child) {
+    margin-right: 1em;
+  }
 </style>
 
 <nav>

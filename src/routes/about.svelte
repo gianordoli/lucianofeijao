@@ -6,6 +6,19 @@
 	<title>About</title>
 </svelte:head>
 
-<h1>About this site</h1>
+<div class="bio">
+  <Body pageName={'about'} />
+</div>
 
-<Body pageName={'about'} />
+<style>
+
+  .bio {
+    margin-top: var(--main-margin-top);
+  }
+
+  .bio :global(p) {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>

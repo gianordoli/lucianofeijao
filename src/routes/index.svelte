@@ -44,7 +44,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    padding: 20px;
+    padding: var(--main-padding);
   }
 
   .container > :global(.image-container > img) {
