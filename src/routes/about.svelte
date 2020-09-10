@@ -1,4 +1,5 @@
 <script>
+  import { about } from '../../data/transformed-doc.json';    
   import Body from '../components/Body.svelte'
 </script>
 
@@ -7,7 +8,7 @@
 </svelte:head>
 
 <div class="bio">
-  <Body pageName={'about'} />
+  <Body page={about} />
 </div>
 
 <style>
@@ -29,5 +30,10 @@
 
   .bio :global(li > span:last-child) {
     font-style: italic;
-  }  
+  }
+
+  @media screen and (min-width: 740px) {
+
+
+  }
 </style>

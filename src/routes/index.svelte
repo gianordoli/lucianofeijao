@@ -22,18 +22,16 @@
 
 <style>
 
-  .parent {
+  /* .parent {
     position: relative;
     width: 100%;
     height: 100vh;  
-    /* border: 1px solid black; */
   }
 
   .container {
     position: absolute;  
     width: 100%;
     height: 100%;
-    /* background-color: #FACADA; */
     clip: rect(0, auto, auto, 0);
   }
 
@@ -51,7 +49,7 @@
     width: 100%;
     height: 100%;
     object-fit: contain;
-  }
+  } */
 
   /* .child {
     position: fixed;

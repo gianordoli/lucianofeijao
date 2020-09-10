@@ -24,6 +24,10 @@
       "value": "Luciano Feijão nasceu em Vitória, no Espírito Santo, e é professor, artista visual e ilustrador. Suas três últimas exposições foram dedicadas aos temas étnico-raciais, evidenciando a população negra em contraponto à estigmatização e às formas de aniquilamento.  Seu trabalho tem como principal característica a forte expressividade gestual, a densidade das formas e as experiências com ferramentas alternativas. Sua pesquisa atual, intitulada Antianatomia, pretende discutir, pela via do desenho, as práticas racistas aliadas a políticas cientificistas."
     },
     {
+      "type": "start",
+      "value": "solo-exhibitions"
+    },
+    {
       "type": "subhed",
       "value": "Solo Exhibitions"
     },
@@ -53,8 +57,16 @@
       ]
     },
     {
+      "type": "end",
+      "value": "solo-exhibitions"
+    },
+    {
+      "type": "start",
+      "value": "group-exhibitions"
+    },
+    {
       "type": "subhed",
-      "value": "Group Exhibitions"
+      "value": "Group Exhibitions"
     },
     {
       "type": "list",
@@ -86,8 +98,40 @@
         {
           "title": "SP Estampa 2014",
           "info": "Galeria Gravura Brasileira, São Paulo, Brazil, 2014"
+        },
+        {
+          "title": "Del Grabado y Otros Placeres",
+          "info": "Escuela Bancaria y Comercial, Mexico City, México, 2014"
+        },
+        {
+          "title": "Linguagem Gravada",
+          "info": "Escola da Ciência – Física, Vitória, Brazil, 2014"
+        },
+        {
+          "title": "Rebarbas",
+          "info": "Galeria de Arte e Pesquisa/UFES, Vitória, Brazil,2013"
+        },
+        {
+          "title": "Gravura / ES",
+          "info": "Museu de Arte do Espírito Santo, Vitória, Brazil, 2012"
+        },
+        {
+          "title": "SP Estampa 2012",
+          "info": "Galeria Gravura Brasileira, São Paulo, Brazil, 2012"
+        },
+        {
+          "title": "[Im] Pressões/Diálogos",
+          "info": "Galeria de Arte e Pesquisa/UFES, Vitória, Brazil, 2011"
+        },
+        {
+          "title": "Base 2: Plataforma de Experimentação Artística",
+          "info": "Galeria Homero Massena, Vitória, Brazil, 2011"
         }
       ]
+    },
+    {
+      "type": "end",
+      "value": "group-exhibitions"
     }
   ],
   "work": [
@@ -336,5 +380,6 @@
         "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Ilitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020"
       }
     }
-  ]
+  ],
+  "ignore": []
 }

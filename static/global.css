@@ -76,17 +76,3 @@ code {
 		font-size: 16px;
 	}
 }
-
-#sapper::after {
-  content: "";
-  display: block;
-  box-sizing: border-box;
-  width: calc(100% - var(--main-padding)*2);
-  height: calc(100% - var(--main-padding)*2);
-  position: fixed;
-  top: var(--main-padding);
-  left: var(--main-padding);
-  border: 5px solid black;
-  z-index: 100;
-  pointer-events: none;
-}

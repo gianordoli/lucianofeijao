@@ -26,6 +26,10 @@
       "value": "Luciano Feijão nasceu em Vitória, no Espírito Santo, e é professor, artista visual e ilustrador. Suas três últimas exposições foram dedicadas aos temas étnico-raciais, evidenciando a população negra em contraponto à estigmatização e às formas de aniquilamento.  Seu trabalho tem como principal característica a forte expressividade gestual, a densidade das formas e as experiências com ferramentas alternativas. Sua pesquisa atual, intitulada Antianatomia, pretende discutir, pela via do desenho, as práticas racistas aliadas a políticas cientificistas."
     },
     {
+      "type": "start",
+      "value": "solo-exhibitions"
+    },
+    {
       "type": "subhed",
       "value": "Solo Exhibitions"
     },
@@ -55,8 +59,16 @@
       ]
     },
     {
+      "type": "end",
+      "value": "solo-exhibitions"
+    },
+    {
+      "type": "start",
+      "value": "group-exhibitions"
+    },
+    {
       "type": "subhed",
-      "value": "Group Exhibitions"
+      "value": "Group Exhibitions"
     },
     {
       "type": "list",
@@ -88,8 +100,40 @@
         {
           "title": "SP Estampa 2014",
           "info": "Galeria Gravura Brasileira, São Paulo, Brazil, 2014"
+        },
+        {
+          "title": "Del Grabado y Otros Placeres",
+          "info": "Escuela Bancaria y Comercial, Mexico City, México, 2014"
+        },
+        {
+          "title": "Linguagem Gravada",
+          "info": "Escola da Ciência – Física, Vitória, Brazil, 2014"
+        },
+        {
+          "title": "Rebarbas",
+          "info": "Galeria de Arte e Pesquisa/UFES, Vitória, Brazil,2013"
+        },
+        {
+          "title": "Gravura / ES",
+          "info": "Museu de Arte do Espírito Santo, Vitória, Brazil, 2012"
+        },
+        {
+          "title": "SP Estampa 2012",
+          "info": "Galeria Gravura Brasileira, São Paulo, Brazil, 2012"
+        },
+        {
+          "title": "[Im] Pressões/Diálogos",
+          "info": "Galeria de Arte e Pesquisa/UFES, Vitória, Brazil, 2011"
+        },
+        {
+          "title": "Base 2: Plataforma de Experimentação Artística",
+          "info": "Galeria Homero Massena, Vitória, Brazil, 2011"
         }
       ]
+    },
+    {
+      "type": "end",
+      "value": "group-exhibitions"
     }
   ],
   "work": [
@@ -406,5 +450,6 @@
         "srcset": "images/outros-projetos-21-180.jpg 180w, images/outros-projetos-21-180_x2.jpg 360w,images/outros-projetos-21-300.jpg 300w, images/outros-projetos-21-300_x2.jpg 600w,images/outros-projetos-21-460.jpg 460w, images/outros-projetos-21-460_x2.jpg 920w,images/outros-projetos-21-720.jpg 720w, images/outros-projetos-21-720_x2.jpg 1440w,images/outros-projetos-21-1050.jpg 1050w, images/outros-projetos-21-1050_x2.jpg 2100w,images/outros-projetos-21-1440.jpg 1440w, images/outros-projetos-21-1440_x2.jpg 2880w,images/outros-projetos-21-2000.jpg 2000w, images/outros-projetos-21-2000_x2.jpg 4000w"
       }
     }
-  ]
+  ],
+  "ignore": []
 }
