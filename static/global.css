@@ -24,12 +24,12 @@
 
 @font-face {
   font-family: 'infini';
-  src: url('fonts/infini-bold.eot');
-  src: url('fonts/infini-bold.eot?#iefix') format('embedded-opentype'),
-         url('fonts/infini-bold.woff2') format('woff2'),
-         url('fonts/infini-bold.woff') format('woff'),
-         url('fonts/infini-bold.ttf') format('truetype'),
-         url('fonts/infini-bold.svg#ciclefina') format('svg');
+  src: url('fonts/infini-italic.eot');
+  src: url('fonts/infini-italic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/infini-italic.woff2') format('woff2'),
+         url('fonts/infini-italic.woff') format('woff'),
+         url('fonts/infini-italic.ttf') format('truetype'),
+         url('fonts/infini-italic.svg#ciclefina') format('svg');
   font-weight: normal;
   font-style: italic;
 }

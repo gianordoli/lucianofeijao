@@ -1,6 +1,13 @@
 {
   "about": [
     {
+      "type": "image",
+      "value": {
+        "slug": "luciano-feijao.jpg",
+        "caption": ""
+      }
+    },
+    {
       "type": "text",
       "value": "Luciano Feijão is an educator, artist and illustrator born in Vitória, Brazil. His latest exhibits examine racial-ethnic themes, portraying the black population in opposition to the processes of stigmatization and annihilation it has been subjected to."
     },
@@ -17,11 +24,70 @@
       "value": "Luciano Feijão nasceu em Vitória, no Espírito Santo, e é professor, artista visual e ilustrador. Suas três últimas exposições foram dedicadas aos temas étnico-raciais, evidenciando a população negra em contraponto à estigmatização e às formas de aniquilamento.  Seu trabalho tem como principal característica a forte expressividade gestual, a densidade das formas e as experiências com ferramentas alternativas. Sua pesquisa atual, intitulada Antianatomia, pretende discutir, pela via do desenho, as práticas racistas aliadas a políticas cientificistas."
     },
     {
-      "type": "image",
-      "value": {
-        "slug": "luciano-feijao.jpg",
-        "caption": ""
-      }
+      "type": "subhed",
+      "value": "Solo Exhibitions"
+    },
+    {
+      "type": "list",
+      "value": [
+        {
+          "title": "Antianatomia Tropical",
+          "info": "OÁ Galeria, Vitória, Brazil, 2018"
+        },
+        {
+          "title": "Amas – Fisionomias e Desmembramentos",
+          "info": "Galeria Homero Massena, Vitória, Brazil, 2018"
+        },
+        {
+          "title": "Torções",
+          "info": "Museu Capixaba do Negro, Vitória, Brazil, 2016"
+        },
+        {
+          "title": "Deserto Gráfico",
+          "info": "Galeria Homero Massena, Vitória, 2012"
+        },
+        {
+          "title": "Oblíquo",
+          "info": "Ateliê 904, Vila Velha, Brazil, 2012"
+        }
+      ]
+    },
+    {
+      "type": "subhed",
+      "value": "Group Exhibitions"
+    },
+    {
+      "type": "list",
+      "value": [
+        {
+          "title": "Antianatomia Tropical",
+          "info": "OÁ Galeria, Vitória, Brazil, 2018"
+        },
+        {
+          "title": "20 / 20",
+          "info": "Museu Vale, Vila Velha, Brazil, 2018-2019"
+        },
+        {
+          "title": "2a Mostra Bienal CAIXA de Novos Artistas",
+          "info": "Caixa Cultural, São Paulo, Rio de Janeiro, Fortaleza, Recife, Brasília, Salvador e Curitiba, Brazil, 2017-2018"
+        },
+        {
+          "title": "Aquilo que queremos dizer",
+          "info": "Centro Cultural Justiça Federal, Vitória, Brazil, 2017"
+        },
+        {
+          "title": "Swaggerless: Pop-Up Art Show",
+          "info": "Gallery 38, Los Angeles, CA, 2016"
+        },
+        {
+          "title": "1a MACLI - Mostra de Arte Contemporânea em Liteatura Infantil",
+          "info": "Centro Cultural SESC Glória, Vitória, Brazil, 2015"
+        },
+        {
+          "title": "SP Estampa 2014",
+          "info": "Galeria Gravura Brasileira, São Paulo, Brazil, 2014"
+        }
+      ]
     }
   ],
   "work": [

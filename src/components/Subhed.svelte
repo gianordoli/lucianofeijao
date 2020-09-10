@@ -2,4 +2,4 @@
   export let value;
 </script>
 
-<p>{value}</p>
+<h2>{value}</h2>
