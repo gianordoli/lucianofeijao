@@ -21,8 +21,12 @@
 		padding: calc(var(--layout-padding)*1.5) calc(var(--layout-padding)*1.5) 0;
 	}
 
+	ul {
+		display: table;
+	}
+
 	li {
-		margin-top: 0.5em;
+		margin-top: 1em;
 		line-height: 1em;
 	}
 
@@ -31,6 +35,7 @@
 		display: block;
 		vertical-align: text-bottom;
 		position: relative;
+		font-weight: bold;
 	}
 
 	[aria-current]::after {
@@ -67,6 +72,10 @@
 
 		li:not(:last-child) {
 			margin-right: 1em;
+		}
+
+		a {
+			font-weight: normal;
 		}
 	}
 </style>

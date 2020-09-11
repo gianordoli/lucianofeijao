@@ -13,6 +13,8 @@
 
 <style>
 
+  @media screen and (min-width: 740px) {
+
   .page-work {
     display: flex;
     flex-direction: row;
@@ -35,6 +37,7 @@
   .page-work :global(.image-container.medium) {
     width: 55%;
     margin: 0 22.5% 10%;    
+  }
   }
 
 </style>
