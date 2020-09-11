@@ -18,7 +18,7 @@
 		left: 0;
 		width: 100%;
 		z-index: 1;
-		padding: calc(var(--layout-padding)*1.5) calc(var(--layout-padding)*1.5) 0;
+		padding: calc(var(--layout-padding)*1.25) calc(var(--layout-padding)*1.25) 0;
 	}
 
 	h1 {
