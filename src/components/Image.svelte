@@ -6,7 +6,6 @@
   export let src;
   export let srcset;
   export let caption;
-  console.log(classes)
 </script>
 
 <div {id} class="image-container {classes ? classes : ''}">

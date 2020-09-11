@@ -7,7 +7,7 @@
 	<title>Luciano Feijão</title>
 </svelte:head>
 
-<div class="work">
+<div class="page-work">
   <Body page={work} />
 </div>
 

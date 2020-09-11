@@ -37,14 +37,16 @@
 :root {
   --main-margin-top: 120px;
   --main-padding: 20px;
+  --color-black: #333;
+  --stroke-width: 4px;
 }
 
 body {
 	margin: 0;
 	font-family: infini, Georgia, 'Times New Roman', Times, serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.5;
-	color: #333;
+	color: var(--color-black);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,6 +58,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 2em;
+}
+
+h2 {
+  font-weight: bold;
 }
 
 a {
@@ -71,15 +77,13 @@ code {
 	border-radius: 2px;
 }
 
-@media (min-width: 400px) {
-	body {
-		font-size: 16px;
-	}
-}
-
 @media screen and (min-width: 740px) {
 
-  .work {
+	body {
+		font-size: 18px;
+	}  
+
+  .page-work {
     display: flex;
     flex-direction: row;
     align-items: top;
@@ -87,17 +91,17 @@ code {
     justify-content: center;
   }
 
-  .work .image-container {
+  .page-work .image-container {
     width: 80%;
     margin: 0 10% 10%;
   }  
 
-  .work .image-container.small {
+  .page-work .image-container.small {
     width: 35%;
     margin: 0 5% 10%;
   }
 
-  .work .image-container.medium {
+  .page-work .image-container.medium {
     width: 55%;
     margin: 0 22.5% 10%;    
   }

@@ -29,8 +29,9 @@
     /* top: var(--main-padding);
     left: var(--main-padding); */
     /* border: 5px solid black; */
-    border: 20px solid white;
-    box-shadow: inset 0px 0px 0px 4px black;
+    /* border: 20px solid white;
+    box-shadow: inset 0px 0px 0px 4px black; */
+    border: 20px solid var(--color-black);
     z-index: 100;
     pointer-events: none;
   }

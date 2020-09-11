@@ -7,33 +7,37 @@
 	<title>About</title>
 </svelte:head>
 
-<div class="bio">
+<div class="page-about">
   <Body page={about} />
 </div>
 
 <style>
 
-  .bio {
+  .page-about {
     margin-top: var(--main-margin-top);
-  }
-
-  .bio :global(p),
-  .bio :global(.image-container) {
     max-width: 600px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;    
   }
 
-  .bio :global(li > span) {
-    display: block;
-  }
-
-  .bio :global(li > span:last-child) {
-    font-style: italic;
+  .page-about :global(.bio) {
+    padding-bottom: var(--main-padding);
+    margin-bottom: calc(var(--main-padding)*2);
+    border-bottom: var(--stroke-width) solid var(--color-black);
   }
 
   @media screen and (min-width: 740px) {
 
+    .page-about :global(.teaching, .solo-exhibitions) {
+      width: 50%;
+      display: inline-block;
+      vertical-align: top;
+    }
+
+    .page-about :global(.group-exhibitions ul) {
+      columns: 2;
+      column-gap: 0;
+    }    
 
   }
 </style>
