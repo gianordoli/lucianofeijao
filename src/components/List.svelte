@@ -9,10 +9,8 @@
 </ul>
 
 <style>
+
   ul {
-    list-style: none;
-    padding: 0;
-    margin-top: 0;
     margin-bottom: calc(var(--layout-padding)*2);
   }
 

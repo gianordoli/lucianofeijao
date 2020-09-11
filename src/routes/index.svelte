@@ -13,50 +13,28 @@
 
 <style>
 
-  /* .parent {
-    position: relative;
-    width: 100%;
-    height: 100vh;  
+  .page-work {
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
-  .container {
-    position: absolute;  
-    width: 100%;
-    height: 100%;
-    clip: rect(0, auto, auto, 0);
+  .page-work :global(.image-container) {
+    width: 80%;
+    margin: 0 10% 10%;
+    /* border: 1px solid black; */
+  }  
+
+  .page-work :global(.image-container.small) {
+    width: 35%;
+    margin: 0 5% 10%;
   }
 
-  .container > :global(.image-container) {
-    box-sizing: border-box;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    padding: var(--main-padding);
+  .page-work :global(.image-container.medium) {
+    width: 55%;
+    margin: 0 22.5% 10%;    
   }
 
-  .container > :global(.image-container > img) {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-  } */
-
-  /* .child {
-    position: fixed;
-    width: 630px;
-    height: calc(100vh - 100px);
-    border: 4px solid hsl(180, 45%, 40%);
-    color: hsl(180, 45%, 40%);
-    top: 50px;
-    left: 50px;
-    font-family: Helvetica, Arial, Sans;
-    padding: 20px;
-  }   */
-	
-	/* .grid {
-		display: grid;
-		grid-template-columns: repeat(12, 1fr);
-		grid-gap: 20px;
-	} */
 </style>

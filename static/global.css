@@ -69,33 +69,15 @@ a {
 	color: inherit;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 @media screen and (min-width: 740px) {
 
 	body {
 		font-size: 18px;
-	}  
-
-  .page-work {
-    display: flex;
-    flex-direction: row;
-    align-items: top;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .page-work .image-container {
-    width: 80%;
-    margin: 0 10% 10%;
-    border: 1px solid black;
-  }  
-
-  .page-work .image-container.small {
-    width: 35%;
-    margin: 0 5% 10%;
-  }
-
-  .page-work .image-container.medium {
-    width: 55%;
-    margin: 0 22.5% 10%;    
-  }
+	}
 }
