@@ -13,7 +13,7 @@
     list-style: none;
     padding: 0;
     margin-top: 0;
-    margin-bottom: calc(var(--main-padding)*2);
+    margin-bottom: calc(var(--layout-padding)*2);
   }
 
   li {

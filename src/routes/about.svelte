@@ -14,16 +14,16 @@
 <style>
 
   .page-about {
-    margin-top: var(--main-margin-top);
+    margin-top: var(--layout-margin-top);
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;    
   }
 
   .page-about :global(.bio) {
-    padding-bottom: var(--main-padding);
-    margin-bottom: calc(var(--main-padding)*2);
-    border-bottom: var(--stroke-width) solid var(--color-black);
+    padding-bottom: var(--layout-padding);
+    margin-bottom: calc(var(--layout-padding)*2);
+    border-bottom: var(--layout-stroke-width) solid var(--color-black);
   }
 
   @media screen and (min-width: 740px) {

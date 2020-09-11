@@ -13,7 +13,7 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding: calc(var(--main-padding)*1.5) calc(var(--main-padding)*2) 0;
+    padding: calc(var(--layout-padding)*1.5) calc(var(--layout-padding)*2) 0;
   }
   
   h1 {

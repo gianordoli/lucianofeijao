@@ -12,7 +12,7 @@
 		/* padding: 2em; */
 		margin: 0 auto;
     box-sizing: border-box;
-    padding: 24px;    
+    padding: calc(var(--layout-padding)*2);    
   }
   
   main:after {
@@ -31,7 +31,7 @@
     /* border: 5px solid black; */
     /* border: 20px solid white;
     box-shadow: inset 0px 0px 0px 4px black; */
-    border: 20px solid var(--color-black);
+    border: var(--layout-padding) solid var(--color-black);
     z-index: 100;
     pointer-events: none;
   }
