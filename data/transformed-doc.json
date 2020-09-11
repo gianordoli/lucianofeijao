@@ -27,6 +27,43 @@
     },
     {
       "type": "start",
+      "value": "teaching"
+    },
+    {
+      "type": "subhed",
+      "value": "Teaching and Research"
+    },
+    {
+      "type": "list",
+      "value": [
+        {
+          "title": "Drawing Strategies",
+          "info": "2018–present"
+        },
+        {
+          "title": "Drawing I, II, III, IV, V, and VI",
+          "info": "Teaching for the Bachelor programs in Arts, Architecture and Design at Espírito Santo Federal University, 2008–2019"
+        },
+        {
+          "title": "Engraving Research Group",
+          "info": "Papel, Lugar, Data"
+        },
+        {
+          "title": "Editorial Illustration Research Group",
+          "info": "Papel, Lugar, Data"
+        },
+        {
+          "title": "Visual Narratives and Illustration Seminar",
+          "info": "Founding member"
+        }
+      ]
+    },
+    {
+      "type": "end",
+      "value": "teaching"
+    },
+    {
+      "type": "start",
       "value": "solo-exhibitions"
     },
     {
@@ -144,7 +181,8 @@
         "caption": "Torções, 2020",
         "src": "images/torcoes-1-1050.jpg",
         "srcset": "images/torcoes-1-180.jpg 180w, images/torcoes-1-180_x2.jpg 360w,images/torcoes-1-300.jpg 300w, images/torcoes-1-300_x2.jpg 600w,images/torcoes-1-460.jpg 460w, images/torcoes-1-460_x2.jpg 920w,images/torcoes-1-720.jpg 720w, images/torcoes-1-720_x2.jpg 1440w,images/torcoes-1-1050.jpg 1050w, images/torcoes-1-1050_x2.jpg 2100w,images/torcoes-1-1440.jpg 1440w, images/torcoes-1-1440_x2.jpg 2880w,images/torcoes-1-2000.jpg 2000w, images/torcoes-1-2000_x2.jpg 4000w"
-      }
+      },
+      "class": "big"
     },
     {
       "type": "image",
@@ -153,7 +191,8 @@
         "caption": "Torções, 2020",
         "src": "images/torcoes-2-1050.jpg",
         "srcset": "images/torcoes-2-180.jpg 180w, images/torcoes-2-180_x2.jpg 360w,images/torcoes-2-300.jpg 300w, images/torcoes-2-300_x2.jpg 600w,images/torcoes-2-460.jpg 460w, images/torcoes-2-460_x2.jpg 920w,images/torcoes-2-720.jpg 720w, images/torcoes-2-720_x2.jpg 1440w,images/torcoes-2-1050.jpg 1050w, images/torcoes-2-1050_x2.jpg 2100w,images/torcoes-2-1440.jpg 1440w, images/torcoes-2-1440_x2.jpg 2880w,images/torcoes-2-2000.jpg 2000w, images/torcoes-2-2000_x2.jpg 4000w"
-      }
+      },
+      "class": "center medium"
     },
     {
       "type": "image",
@@ -162,7 +201,9 @@
         "caption": "Torções, 2020",
         "src": "images/torcoes-3-1050.jpg",
         "srcset": "images/torcoes-3-180.jpg 180w, images/torcoes-3-180_x2.jpg 360w,images/torcoes-3-300.jpg 300w, images/torcoes-3-300_x2.jpg 600w,images/torcoes-3-460.jpg 460w, images/torcoes-3-460_x2.jpg 920w,images/torcoes-3-720.jpg 720w, images/torcoes-3-720_x2.jpg 1440w,images/torcoes-3-1050.jpg 1050w, images/torcoes-3-1050_x2.jpg 2100w,images/torcoes-3-1440.jpg 1440w, images/torcoes-3-1440_x2.jpg 2880w,images/torcoes-3-2000.jpg 2000w, images/torcoes-3-2000_x2.jpg 4000w"
-      }
+      },
+      "id": "torcoes",
+      "class": "big"
     },
     {
       "type": "image",

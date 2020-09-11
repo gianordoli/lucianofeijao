@@ -25,6 +25,43 @@
     },
     {
       "type": "start",
+      "value": "teaching"
+    },
+    {
+      "type": "subhed",
+      "value": "Teaching and Research"
+    },
+    {
+      "type": "list",
+      "value": [
+        {
+          "title": "Drawing Strategies",
+          "info": "2018–present"
+        },
+        {
+          "title": "Drawing I, II, III, IV, V, and VI",
+          "info": "Teaching for the Bachelor programs in Arts, Architecture and Design at Espírito Santo Federal University, 2008–2019"
+        },
+        {
+          "title": "Engraving Research Group",
+          "info": "Papel, Lugar, Data"
+        },
+        {
+          "title": "Editorial Illustration Research Group",
+          "info": "Papel, Lugar, Data"
+        },
+        {
+          "title": "Visual Narratives and Illustration Seminar",
+          "info": "Founding member"
+        }
+      ]
+    },
+    {
+      "type": "end",
+      "value": "teaching"
+    },
+    {
+      "type": "start",
       "value": "solo-exhibitions"
     },
     {
@@ -136,21 +173,21 @@
   ],
   "work": [
     {
-      "type": "image",
+      "type": "image.big",
       "value": {
         "slug": "torcoes-1.jpg",
         "caption": "Torções, 2020"
       }
     },
     {
-      "type": "image",
+      "type": "image.center.medium",
       "value": {
         "slug": "torcoes-2.jpg",
         "caption": "Torções, 2020"
       }
     },
     {
-      "type": "image",
+      "type": "image#torcoes.big",
       "value": {
         "slug": "torcoes-3.jpg",
         "caption": "Torções, 2020"

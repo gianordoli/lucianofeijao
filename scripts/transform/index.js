@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const utils = require('./utils'); 
 
 const init = doc => {
 
@@ -14,6 +15,9 @@ const init = doc => {
 
   const transformedDoc = Object.keys(doc).reduce((acc, pageName) => {
     const page = doc[pageName].map(item => {
+      
+      item = utils.setTypeClassId(item);
+
       const { type } = item;
       if (Object.keys(transformers).indexOf(type) > -1) {
         const transformer = transformers[type];
@@ -23,7 +27,9 @@ const init = doc => {
         return item;
       }
     });
+    
     acc[pageName] = page;
+
     return acc;
   }, {});
 
