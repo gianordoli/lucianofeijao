@@ -76,3 +76,29 @@ code {
 		font-size: 16px;
 	}
 }
+
+@media screen and (min-width: 740px) {
+
+  .work {
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .work .image-container {
+    width: 80%;
+    margin: 0 10% 10%;
+  }  
+
+  .work .image-container.small {
+    width: 35%;
+    margin: 0 5% 10%;
+  }
+
+  .work .image-container.medium {
+    width: 55%;
+    margin: 0 22.5% 10%;    
+  }
+}

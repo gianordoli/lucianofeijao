@@ -1,24 +1,15 @@
 <script>
-  import * as transformedDoc from '../../data/transformed-doc.json';
-  import Image from '../components/Image.svelte';
-  
-  const pageName = 'work';
-  const page = transformedDoc[pageName];
+  import { work } from '../../data/transformed-doc.json';  
+  import Body from '../components/Body.svelte'
 </script>
 
 <svelte:head>
 	<title>Luciano Feijão</title>
 </svelte:head>
 
-{#each page as {type, value}}
-  {#if type === 'image'}
-    <div class="parent">
-      <div class="container">
-        <Image {...value} />
-      </div>
-    </div>
-  {/if}
-{/each}
+<div class="work">
+  <Body page={work} />
+</div>
 
 <style>
 

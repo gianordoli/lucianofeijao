@@ -173,49 +173,21 @@
   ],
   "work": [
     {
-      "type": "image.big",
-      "value": {
-        "slug": "torcoes-1.jpg",
-        "caption": "Torções, 2020"
-      }
-    },
-    {
-      "type": "image.center.medium",
-      "value": {
-        "slug": "torcoes-2.jpg",
-        "caption": "Torções, 2020"
-      }
-    },
-    {
-      "type": "image#torcoes.big",
+      "type": "image.medium",
       "value": {
         "slug": "torcoes-3.jpg",
         "caption": "Torções, 2020"
       }
     },
     {
-      "type": "image",
+      "type": "image.small",
       "value": {
-        "slug": "torcoes-7.jpg",
+        "slug": "torcoes-1.jpg",
         "caption": "Torções, 2020"
       }
     },
     {
-      "type": "image",
-      "value": {
-        "slug": "torcoes-9.jpg",
-        "caption": "Torções, 2020"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "torcoes-10.jpg",
-        "caption": "Torções, 2020"
-      }
-    },
-    {
-      "type": "image",
+      "type": "image.small",
       "value": {
         "slug": "torcoes-11.jpg",
         "caption": "Torções, 2020"
@@ -223,6 +195,34 @@
     },
     {
       "type": "image",
+      "value": {
+        "slug": "antianatomia-2.jpg",
+        "caption": "Antianatomia, 2019"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "torcoes-9.jpg",
+        "caption": "Torções, 2020"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "torcoes-2.jpg",
+        "caption": "Torções, 2020"
+      }
+    },
+    {
+      "type": "image",
+      "value": {
+        "slug": "outros-projetos-5.jpg",
+        "caption": "Torções, 2012"
+      }
+    },
+    {
+      "type": "image.medium",
       "value": {
         "slug": "a-morte-de-ivan-illitch-1.jpg",
         "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020"
@@ -236,7 +236,96 @@
       }
     },
     {
+      "type": "image.small",
+      "value": {
+        "slug": "amas-2.jpg",
+        "caption": "Amas, 2019"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "amas-5.jpg",
+        "caption": "Amas, 2019"
+      }
+    },
+    {
       "type": "image",
+      "value": {
+        "slug": "amas-3.jpg",
+        "caption": "Amas, 2019"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "outros-projetos-10.jpg",
+        "caption": "Illustration for the book “O Orangotango Marxista”, by Marcelo Rubens Paiva, published by Companhia das Letras, 2018",
+        "caption-pt": "Ilustração para a capa do livro “O Orangotango Marxista”, de Marcelo Rubens Paiva, publicado pela editora Companhia das Letras, 2018"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "outros-projetos-13.jpg",
+        "caption": "Illustration for the movie poster of “A Mulher e o Rio,” directed by Bernard Lessa, 2018",
+        "caption-pt": "Ilustração para o cartaz do filme “A Mulher e o Rio”, dirigido por Bernard Lessa, 2018"
+      }
+    },
+    {
+      "type": "image",
+      "value": {
+        "slug": "diario-do-hospicio-6.jpg",
+        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "diario-do-hospicio-5.jpg",
+        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "diario-do-hospicio-9.jpg",
+        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
+      }
+    },
+    {
+      "type": "image",
+      "value": {
+        "slug": "diario-do-hospicio-2.jpg",
+        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
+      }
+    },
+    {
+      "type": "image.medium",
+      "value": {
+        "slug": "outros-projetos-6.jpg",
+        "caption": "Deserto Gráfico, 2012",
+        "caption-pt": "Exposição Deserto Gráfico, Galeria Homero Massena, Vitória, 2012"
+      }
+    }
+  ],
+  "ignore": [
+    {
+      "type": "image.medium",
+      "value": {
+        "slug": "torcoes-7.jpg",
+        "caption": "Torções, 2020"
+      }
+    },
+    {
+      "type": "image.small",
+      "value": {
+        "slug": "torcoes-10.jpg",
+        "caption": "Torções, 2020"
+      }
+    },
+    {
+      "type": "image.small",
       "value": {
         "slug": "a-morte-de-ivan-illitch-6.jpg",
         "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020"
@@ -250,45 +339,17 @@
       }
     },
     {
-      "type": "image",
-      "value": {
-        "slug": "amas-2.jpg",
-        "caption": "Amas, 2019"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "amas-3.jpg",
-        "caption": "Amas, 2019"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "amas-5.jpg",
-        "caption": "Amas, 2019"
-      }
-    },
-    {
-      "type": "image",
+      "type": "image.small",
       "value": {
         "slug": "amas-9.jpg",
         "caption": "Amas, 2019"
       }
     },
     {
-      "type": "image",
+      "type": "image.small",
       "value": {
         "slug": "amas-11.jpg",
         "caption": "Amas, 2019"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "antianatomia-2.jpg",
-        "caption": "Antianatomia, 2019"
       }
     },
     {
@@ -315,13 +376,6 @@
     {
       "type": "image",
       "value": {
-        "slug": "diario-do-hospicio-2.jpg",
-        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
         "slug": "diario-do-hospicio-3.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
       }
@@ -330,27 +384,6 @@
       "type": "image",
       "value": {
         "slug": "diario-do-hospicio-4.jpg",
-        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "diario-do-hospicio-5.jpg",
-        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "diario-do-hospicio-6.jpg",
-        "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "diario-do-hospicio-9.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
       }
     },
@@ -373,37 +406,6 @@
     {
       "type": "image",
       "value": {
-        "slug": "outros-projetos-5.jpg",
-        "caption": "Torções, 2012"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "outros-projetos-6.jpg",
-        "caption": "Deserto Gráfico, 2012",
-        "caption-pt": "Exposição Deserto Gráfico, Galeria Homero Massena, Vitória, 2012"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "outros-projetos-10.jpg",
-        "caption": "Illustration for the book “O Orangotango Marxista”, by Marcelo Rubens Paiva, published by Companhia das Letras, 2018",
-        "caption-pt": "Ilustração para a capa do livro “O Orangotango Marxista”, de Marcelo Rubens Paiva, publicado pela editora Companhia das Letras, 2018"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "outros-projetos-13.jpg",
-        "caption": "Illustration for the movie poster of “A Mulher e o Rio,” directed by Bernard Lessa, 2018",
-        "caption-pt": "Ilustração para o cartaz do filme “A Mulher e o Rio”, dirigido por Bernard Lessa, 2018"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
         "slug": "outros-projetos-16.jpg",
         "caption": "Black man’s face, personal project, 2018",
         "caption-pt": "Rosto de homem negro, projeto pessoal, 2018"
@@ -413,10 +415,9 @@
       "type": "image",
       "value": {
         "slug": "outros-projetos-21.jpg",
-        "caption": "Illustration study for “A Morte de Ivan Ilitch”, by Leo Tolstoy, published by Antofágica, 2020",
-        "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Ilitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020"
+        "caption": "Illustration study for “A Morte de Ivan Illitch”, by Leo Tolstoy, published by Antofágica, 2020",
+        "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Illitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020"
       }
     }
-  ],
-  "ignore": []
+  ]
 }

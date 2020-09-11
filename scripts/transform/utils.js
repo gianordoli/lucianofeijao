@@ -1,7 +1,7 @@
 const getTypeClassId = string => {
   if (string.match(/[\.#]/)) {
     var output = {
-      class: '',
+      classes: '',
       id: '',
       type: '',
     };
@@ -12,7 +12,7 @@ const getTypeClassId = string => {
     var classAndIdRegex = /([\.#]-?[_a-zA-Z]+[_a-zA-Z0-9-]*)/g;
     var cssMatches = string.match(classAndIdRegex);
     cssMatches.forEach(function (match) {
-      if (match.charAt(0) == ".") output.class += " " + match.substring(1);
+      if (match.charAt(0) == ".") output.classes += " " + match.substring(1);
       if (match.charAt(0) == "#") output.id = match.substring(1);
     });
     return output;
@@ -27,8 +27,8 @@ const setTypeClassId = item => {
 
   if (parsed) {
     if (parsed.type) item.type = parsed.type;
-    if (parsed.id) item.id = parsed.id.trim();
-    if (parsed.class) item.class = parsed.class.trim();
+    if (parsed.id) item.value.id = parsed.id.trim();
+    if (parsed.classes) item.value.classes = parsed.classes.trim();
   }
 
   return item;
