@@ -11,12 +11,13 @@
 <style>
 
   ul {
+    margin-top: 1em;
     margin-bottom: calc(var(--layout-padding)*2);
   }
 
   li {
     padding: 0 1em;    
-    margin-bottom: 0.5em;        
+    margin-bottom: 0.5em;
   }
 
   li span:first-child {

@@ -21,6 +21,10 @@
 		padding: calc(var(--layout-padding)*1.5) calc(var(--layout-padding)*1.5) 0;
 	}
 
+	h1 {
+		text-transform: uppercase;
+	}	
+
 	ul {
 		display: table;
 	}
@@ -51,7 +55,7 @@
 	@media screen and (min-width: 740px) {
 
 		nav {
-			padding: calc(var(--layout-padding)*1.5) calc(var(--layout-padding)*2) 0;
+			padding: calc(var(--layout-padding)*2) calc(var(--layout-padding)*2.5) 0;
 			display: flex;
 			justify-content: space-between;
 			align-items: baseline;
