@@ -2,7 +2,7 @@
 	{
 		"slug": "a-morte-de-ivan-illitch-1",
 		"extension": "jpg",
-		"ratio": 1,
+		"ratio": 1.169182389937107,
 		"sizes": [
 			180,
 			300,
@@ -17,52 +17,7 @@
 	{
 		"slug": "a-morte-de-ivan-illitch-4",
 		"extension": "jpg",
-		"ratio": 1,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "a-morte-de-ivan-illitch-6",
-		"extension": "jpg",
-		"ratio": 0.6961506961506961,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "amas-1",
-		"extension": "jpg",
-		"ratio": 1.2828947368421053,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "amas-11",
-		"extension": "jpg",
-		"ratio": 1,
+		"ratio": 0.8173076923076923,
 		"sizes": [
 			180,
 			300,
@@ -77,7 +32,7 @@
 	{
 		"slug": "amas-2",
 		"extension": "jpg",
-		"ratio": 1.2785087719298245,
+		"ratio": 1.3742483197736115,
 		"sizes": [
 			180,
 			300,
@@ -92,7 +47,7 @@
 	{
 		"slug": "amas-3",
 		"extension": "jpg",
-		"ratio": 0.6151315789473685,
+		"ratio": 0.7211067580803134,
 		"sizes": [
 			180,
 			300,
@@ -107,52 +62,7 @@
 	{
 		"slug": "amas-5",
 		"extension": "jpg",
-		"ratio": 1.5,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "amas-9",
-		"extension": "jpg",
-		"ratio": 0.6666666666666666,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "antianatomia-12",
-		"extension": "jpg",
-		"ratio": 0.75,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "antianatomia-14",
-		"extension": "jpg",
-		"ratio": 1.5182998819362457,
+		"ratio": 1.3642241379310345,
 		"sizes": [
 			180,
 			300,
@@ -180,54 +90,9 @@
 		"hasRetina": true
 	},
 	{
-		"slug": "diario-do-hospicio-1",
-		"extension": "jpg",
-		"ratio": 1.484087591240876,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
 		"slug": "diario-do-hospicio-2",
 		"extension": "jpg",
-		"ratio": 0.7413138686131386,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "diario-do-hospicio-3",
-		"extension": "jpg",
-		"ratio": 0.6672158154859967,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "diario-do-hospicio-4",
-		"extension": "jpg",
-		"ratio": 1.4843795620437956,
+		"ratio": 0.7574582338902148,
 		"sizes": [
 			180,
 			300,
@@ -242,7 +107,7 @@
 	{
 		"slug": "diario-do-hospicio-5",
 		"extension": "jpg",
-		"ratio": 1.481924198250729,
+		"ratio": 1.485907222548444,
 		"sizes": [
 			180,
 			300,
@@ -285,24 +150,9 @@
 		"hasRetina": true
 	},
 	{
-		"slug": "folha-de-sao-paulo-1",
-		"extension": "jpg",
-		"ratio": 0.48804780876494025,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
 		"slug": "luciano-feijao",
 		"extension": "jpg",
-		"ratio": 1.1149825783972125,
+		"ratio": 1,
 		"sizes": [
 			180,
 			300,
@@ -345,54 +195,9 @@
 		"hasRetina": true
 	},
 	{
-		"slug": "outros-projetos-16",
-		"extension": "jpg",
-		"ratio": 1.4141961231470923,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "outros-projetos-21",
-		"extension": "jpg",
-		"ratio": 0.7274900398406374,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "outros-projetos-4",
-		"extension": "jpg",
-		"ratio": 0.8348736906962415,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
 		"slug": "outros-projetos-5",
 		"extension": "jpg",
-		"ratio": 0.6658364466583645,
+		"ratio": 0.7240566037735849,
 		"sizes": [
 			180,
 			300,
@@ -435,21 +240,6 @@
 		"hasRetina": true
 	},
 	{
-		"slug": "torcoes-10",
-		"extension": "jpg",
-		"ratio": 0.6798387096774193,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
 		"slug": "torcoes-11",
 		"extension": "jpg",
 		"ratio": 1.338095238095238,
@@ -467,7 +257,7 @@
 	{
 		"slug": "torcoes-2",
 		"extension": "jpg",
-		"ratio": 1.410182516810759,
+		"ratio": 1.4205607476635513,
 		"sizes": [
 			180,
 			300,
@@ -482,22 +272,7 @@
 	{
 		"slug": "torcoes-3",
 		"extension": "jpg",
-		"ratio": 1.3976608187134503,
-		"sizes": [
-			180,
-			300,
-			460,
-			720,
-			1050,
-			1440,
-			2000
-		],
-		"hasRetina": true
-	},
-	{
-		"slug": "torcoes-7",
-		"extension": "jpg",
-		"ratio": 0.6666666666666666,
+		"ratio": 1.5620347394540943,
 		"sizes": [
 			180,
 			300,
@@ -512,7 +287,7 @@
 	{
 		"slug": "torcoes-9",
 		"extension": "jpg",
-		"ratio": 1.4,
+		"ratio": 1.4563345633456335,
 		"sizes": [
 			180,
 			300,
