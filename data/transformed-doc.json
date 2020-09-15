@@ -15,7 +15,7 @@
     },
     {
       "type": "text",
-      "value": "Luciano Feijão is an educator, artist and illustrator born in Vitória, Brazil. His latest exhibits examine racial-ethnic themes, portraying the black population in opposition to the processes of stigmatization and annihilation it has been subjected to."
+      "value": "Luciano Feijão is an educator, artist and illustrator born in Vitória, Brazil. His latest exhibitions examine racial-ethnic themes, portraying the black population as a form of resistance against the processes of stigmatization and annihilation it has been subjected to."
     },
     {
       "type": "text",
@@ -187,6 +187,7 @@
       "value": {
         "slug": "torcoes-3.jpg",
         "caption": "Torções, 2020",
+        "id": "cover",
         "classes": "medium",
         "src": "images/torcoes-3-1050.jpg",
         "srcset": "images/torcoes-3-180.jpg 180w, images/torcoes-3-180_x2.jpg 360w,images/torcoes-3-300.jpg 300w, images/torcoes-3-300_x2.jpg 600w,images/torcoes-3-460.jpg 460w, images/torcoes-3-460_x2.jpg 920w,images/torcoes-3-720.jpg 720w, images/torcoes-3-720_x2.jpg 1440w,images/torcoes-3-1050.jpg 1050w, images/torcoes-3-1050_x2.jpg 2100w,images/torcoes-3-1440.jpg 1440w, images/torcoes-3-1440_x2.jpg 2880w,images/torcoes-3-2000.jpg 2000w, images/torcoes-3-2000_x2.jpg 4000w"
@@ -265,6 +266,7 @@
       "value": {
         "slug": "a-morte-de-ivan-illitch-4.jpg",
         "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020",
+        "classes": "medium",
         "src": "images/a-morte-de-ivan-illitch-4-1050.jpg",
         "srcset": "images/a-morte-de-ivan-illitch-4-180.jpg 180w, images/a-morte-de-ivan-illitch-4-180_x2.jpg 360w,images/a-morte-de-ivan-illitch-4-300.jpg 300w, images/a-morte-de-ivan-illitch-4-300_x2.jpg 600w,images/a-morte-de-ivan-illitch-4-460.jpg 460w, images/a-morte-de-ivan-illitch-4-460_x2.jpg 920w,images/a-morte-de-ivan-illitch-4-720.jpg 720w, images/a-morte-de-ivan-illitch-4-720_x2.jpg 1440w,images/a-morte-de-ivan-illitch-4-1050.jpg 1050w, images/a-morte-de-ivan-illitch-4-1050_x2.jpg 2100w,images/a-morte-de-ivan-illitch-4-1440.jpg 1440w, images/a-morte-de-ivan-illitch-4-1440_x2.jpg 2880w,images/a-morte-de-ivan-illitch-4-2000.jpg 2000w, images/a-morte-de-ivan-illitch-4-2000_x2.jpg 4000w"
       }
@@ -302,7 +304,7 @@
       "type": "image",
       "value": {
         "slug": "outros-projetos-10.jpg",
-        "caption": "Illustration for the book “O Orangotango Marxista”, by Marcelo Rubens Paiva, published by Companhia das Letras, 2018",
+        "caption": "Illustration for the book “O Orangotango Marxista,” by Marcelo Rubens Paiva, published by Companhia das Letras, 2018",
         "caption-pt": "Ilustração para a capa do livro “O Orangotango Marxista”, de Marcelo Rubens Paiva, publicado pela editora Companhia das Letras, 2018",
         "classes": "small",
         "src": "images/outros-projetos-10-1050.jpg",
@@ -377,8 +379,7 @@
         "slug": "torcoes-7.jpg",
         "caption": "Torções, 2020",
         "classes": "medium",
-        "src": "images/torcoes-7-1050.jpg",
-        "srcset": "images/torcoes-7-180.jpg 180w, images/torcoes-7-180_x2.jpg 360w,images/torcoes-7-300.jpg 300w, images/torcoes-7-300_x2.jpg 600w,images/torcoes-7-460.jpg 460w, images/torcoes-7-460_x2.jpg 920w,images/torcoes-7-720.jpg 720w, images/torcoes-7-720_x2.jpg 1440w,images/torcoes-7-1050.jpg 1050w, images/torcoes-7-1050_x2.jpg 2100w,images/torcoes-7-1440.jpg 1440w, images/torcoes-7-1440_x2.jpg 2880w,images/torcoes-7-2000.jpg 2000w, images/torcoes-7-2000_x2.jpg 4000w"
+        "src": "images/torcoes-7.jpg"
       }
     },
     {
@@ -387,8 +388,7 @@
         "slug": "torcoes-10.jpg",
         "caption": "Torções, 2020",
         "classes": "small",
-        "src": "images/torcoes-10-1050.jpg",
-        "srcset": "images/torcoes-10-180.jpg 180w, images/torcoes-10-180_x2.jpg 360w,images/torcoes-10-300.jpg 300w, images/torcoes-10-300_x2.jpg 600w,images/torcoes-10-460.jpg 460w, images/torcoes-10-460_x2.jpg 920w,images/torcoes-10-720.jpg 720w, images/torcoes-10-720_x2.jpg 1440w,images/torcoes-10-1050.jpg 1050w, images/torcoes-10-1050_x2.jpg 2100w,images/torcoes-10-1440.jpg 1440w, images/torcoes-10-1440_x2.jpg 2880w,images/torcoes-10-2000.jpg 2000w, images/torcoes-10-2000_x2.jpg 4000w"
+        "src": "images/torcoes-10.jpg"
       }
     },
     {
@@ -397,8 +397,7 @@
         "slug": "a-morte-de-ivan-illitch-6.jpg",
         "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020",
         "classes": "small",
-        "src": "images/a-morte-de-ivan-illitch-6-1050.jpg",
-        "srcset": "images/a-morte-de-ivan-illitch-6-180.jpg 180w, images/a-morte-de-ivan-illitch-6-180_x2.jpg 360w,images/a-morte-de-ivan-illitch-6-300.jpg 300w, images/a-morte-de-ivan-illitch-6-300_x2.jpg 600w,images/a-morte-de-ivan-illitch-6-460.jpg 460w, images/a-morte-de-ivan-illitch-6-460_x2.jpg 920w,images/a-morte-de-ivan-illitch-6-720.jpg 720w, images/a-morte-de-ivan-illitch-6-720_x2.jpg 1440w,images/a-morte-de-ivan-illitch-6-1050.jpg 1050w, images/a-morte-de-ivan-illitch-6-1050_x2.jpg 2100w,images/a-morte-de-ivan-illitch-6-1440.jpg 1440w, images/a-morte-de-ivan-illitch-6-1440_x2.jpg 2880w,images/a-morte-de-ivan-illitch-6-2000.jpg 2000w, images/a-morte-de-ivan-illitch-6-2000_x2.jpg 4000w"
+        "src": "images/a-morte-de-ivan-illitch-6.jpg"
       }
     },
     {
@@ -406,8 +405,7 @@
       "value": {
         "slug": "amas-1.jpg",
         "caption": "Amas, 2019",
-        "src": "images/amas-1-1050.jpg",
-        "srcset": "images/amas-1-180.jpg 180w, images/amas-1-180_x2.jpg 360w,images/amas-1-300.jpg 300w, images/amas-1-300_x2.jpg 600w,images/amas-1-460.jpg 460w, images/amas-1-460_x2.jpg 920w,images/amas-1-720.jpg 720w, images/amas-1-720_x2.jpg 1440w,images/amas-1-1050.jpg 1050w, images/amas-1-1050_x2.jpg 2100w,images/amas-1-1440.jpg 1440w, images/amas-1-1440_x2.jpg 2880w,images/amas-1-2000.jpg 2000w, images/amas-1-2000_x2.jpg 4000w"
+        "src": "images/amas-1.jpg"
       }
     },
     {
@@ -416,8 +414,7 @@
         "slug": "amas-9.jpg",
         "caption": "Amas, 2019",
         "classes": "small",
-        "src": "images/amas-9-1050.jpg",
-        "srcset": "images/amas-9-180.jpg 180w, images/amas-9-180_x2.jpg 360w,images/amas-9-300.jpg 300w, images/amas-9-300_x2.jpg 600w,images/amas-9-460.jpg 460w, images/amas-9-460_x2.jpg 920w,images/amas-9-720.jpg 720w, images/amas-9-720_x2.jpg 1440w,images/amas-9-1050.jpg 1050w, images/amas-9-1050_x2.jpg 2100w,images/amas-9-1440.jpg 1440w, images/amas-9-1440_x2.jpg 2880w,images/amas-9-2000.jpg 2000w, images/amas-9-2000_x2.jpg 4000w"
+        "src": "images/amas-9.jpg"
       }
     },
     {
@@ -426,8 +423,7 @@
         "slug": "amas-11.jpg",
         "caption": "Amas, 2019",
         "classes": "small",
-        "src": "images/amas-11-1050.jpg",
-        "srcset": "images/amas-11-180.jpg 180w, images/amas-11-180_x2.jpg 360w,images/amas-11-300.jpg 300w, images/amas-11-300_x2.jpg 600w,images/amas-11-460.jpg 460w, images/amas-11-460_x2.jpg 920w,images/amas-11-720.jpg 720w, images/amas-11-720_x2.jpg 1440w,images/amas-11-1050.jpg 1050w, images/amas-11-1050_x2.jpg 2100w,images/amas-11-1440.jpg 1440w, images/amas-11-1440_x2.jpg 2880w,images/amas-11-2000.jpg 2000w, images/amas-11-2000_x2.jpg 4000w"
+        "src": "images/amas-11.jpg"
       }
     },
     {
@@ -435,8 +431,7 @@
       "value": {
         "slug": "antianatomia-12.jpg",
         "caption": "Antianatomia, 2019",
-        "src": "images/antianatomia-12-1050.jpg",
-        "srcset": "images/antianatomia-12-180.jpg 180w, images/antianatomia-12-180_x2.jpg 360w,images/antianatomia-12-300.jpg 300w, images/antianatomia-12-300_x2.jpg 600w,images/antianatomia-12-460.jpg 460w, images/antianatomia-12-460_x2.jpg 920w,images/antianatomia-12-720.jpg 720w, images/antianatomia-12-720_x2.jpg 1440w,images/antianatomia-12-1050.jpg 1050w, images/antianatomia-12-1050_x2.jpg 2100w,images/antianatomia-12-1440.jpg 1440w, images/antianatomia-12-1440_x2.jpg 2880w,images/antianatomia-12-2000.jpg 2000w, images/antianatomia-12-2000_x2.jpg 4000w"
+        "src": "images/antianatomia-12.jpg"
       }
     },
     {
@@ -444,8 +439,7 @@
       "value": {
         "slug": "antianatomia-14.jpg",
         "caption": "Antianatomia, 2019",
-        "src": "images/antianatomia-14-1050.jpg",
-        "srcset": "images/antianatomia-14-180.jpg 180w, images/antianatomia-14-180_x2.jpg 360w,images/antianatomia-14-300.jpg 300w, images/antianatomia-14-300_x2.jpg 600w,images/antianatomia-14-460.jpg 460w, images/antianatomia-14-460_x2.jpg 920w,images/antianatomia-14-720.jpg 720w, images/antianatomia-14-720_x2.jpg 1440w,images/antianatomia-14-1050.jpg 1050w, images/antianatomia-14-1050_x2.jpg 2100w,images/antianatomia-14-1440.jpg 1440w, images/antianatomia-14-1440_x2.jpg 2880w,images/antianatomia-14-2000.jpg 2000w, images/antianatomia-14-2000_x2.jpg 4000w"
+        "src": "images/antianatomia-14.jpg"
       }
     },
     {
@@ -453,8 +447,8 @@
       "value": {
         "slug": "diario-do-hospicio-1.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020",
-        "src": "images/diario-do-hospicio-1-1050.jpg",
-        "srcset": "images/diario-do-hospicio-1-180.jpg 180w, images/diario-do-hospicio-1-180_x2.jpg 360w,images/diario-do-hospicio-1-300.jpg 300w, images/diario-do-hospicio-1-300_x2.jpg 600w,images/diario-do-hospicio-1-460.jpg 460w, images/diario-do-hospicio-1-460_x2.jpg 920w,images/diario-do-hospicio-1-720.jpg 720w, images/diario-do-hospicio-1-720_x2.jpg 1440w,images/diario-do-hospicio-1-1050.jpg 1050w, images/diario-do-hospicio-1-1050_x2.jpg 2100w,images/diario-do-hospicio-1-1440.jpg 1440w, images/diario-do-hospicio-1-1440_x2.jpg 2880w,images/diario-do-hospicio-1-2000.jpg 2000w, images/diario-do-hospicio-1-2000_x2.jpg 4000w"
+        "classes": "medium",
+        "src": "images/diario-do-hospicio-1.jpg"
       }
     },
     {
@@ -462,8 +456,7 @@
       "value": {
         "slug": "diario-do-hospicio-3.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020",
-        "src": "images/diario-do-hospicio-3-1050.jpg",
-        "srcset": "images/diario-do-hospicio-3-180.jpg 180w, images/diario-do-hospicio-3-180_x2.jpg 360w,images/diario-do-hospicio-3-300.jpg 300w, images/diario-do-hospicio-3-300_x2.jpg 600w,images/diario-do-hospicio-3-460.jpg 460w, images/diario-do-hospicio-3-460_x2.jpg 920w,images/diario-do-hospicio-3-720.jpg 720w, images/diario-do-hospicio-3-720_x2.jpg 1440w,images/diario-do-hospicio-3-1050.jpg 1050w, images/diario-do-hospicio-3-1050_x2.jpg 2100w,images/diario-do-hospicio-3-1440.jpg 1440w, images/diario-do-hospicio-3-1440_x2.jpg 2880w,images/diario-do-hospicio-3-2000.jpg 2000w, images/diario-do-hospicio-3-2000_x2.jpg 4000w"
+        "src": "images/diario-do-hospicio-3.jpg"
       }
     },
     {
@@ -471,8 +464,7 @@
       "value": {
         "slug": "diario-do-hospicio-4.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020",
-        "src": "images/diario-do-hospicio-4-1050.jpg",
-        "srcset": "images/diario-do-hospicio-4-180.jpg 180w, images/diario-do-hospicio-4-180_x2.jpg 360w,images/diario-do-hospicio-4-300.jpg 300w, images/diario-do-hospicio-4-300_x2.jpg 600w,images/diario-do-hospicio-4-460.jpg 460w, images/diario-do-hospicio-4-460_x2.jpg 920w,images/diario-do-hospicio-4-720.jpg 720w, images/diario-do-hospicio-4-720_x2.jpg 1440w,images/diario-do-hospicio-4-1050.jpg 1050w, images/diario-do-hospicio-4-1050_x2.jpg 2100w,images/diario-do-hospicio-4-1440.jpg 1440w, images/diario-do-hospicio-4-1440_x2.jpg 2880w,images/diario-do-hospicio-4-2000.jpg 2000w, images/diario-do-hospicio-4-2000_x2.jpg 4000w"
+        "src": "images/diario-do-hospicio-4.jpg"
       }
     },
     {
@@ -481,8 +473,7 @@
         "slug": "folha-de-sao-paulo-1.jpg",
         "caption": "Illustration for the newspaper Folha de São Paulo, 2010",
         "caption-pt": "Ilustração para Folha de São Paulo, 2010",
-        "src": "images/folha-de-sao-paulo-1-1050.jpg",
-        "srcset": "images/folha-de-sao-paulo-1-180.jpg 180w, images/folha-de-sao-paulo-1-180_x2.jpg 360w,images/folha-de-sao-paulo-1-300.jpg 300w, images/folha-de-sao-paulo-1-300_x2.jpg 600w,images/folha-de-sao-paulo-1-460.jpg 460w, images/folha-de-sao-paulo-1-460_x2.jpg 920w,images/folha-de-sao-paulo-1-720.jpg 720w, images/folha-de-sao-paulo-1-720_x2.jpg 1440w,images/folha-de-sao-paulo-1-1050.jpg 1050w, images/folha-de-sao-paulo-1-1050_x2.jpg 2100w,images/folha-de-sao-paulo-1-1440.jpg 1440w, images/folha-de-sao-paulo-1-1440_x2.jpg 2880w,images/folha-de-sao-paulo-1-2000.jpg 2000w, images/folha-de-sao-paulo-1-2000_x2.jpg 4000w"
+        "src": "images/folha-de-sao-paulo-1.jpg"
       }
     },
     {
@@ -491,8 +482,7 @@
         "slug": "outros-projetos-4.jpg",
         "caption": "Cover for the book “Canções de um Sonhador Morto & Grimscribe,” by Thomas Ligotti, published by Companhia das Letras, 2018. Not published",
         "caption-pt": "Capa para o livro “Canções de um Sonhador Morto & Grimscribe”, do escritor americano de terror Thomas Ligotti, publicado pela editora Companhia das Letras, 2018. Não publicado",
-        "src": "images/outros-projetos-4-1050.jpg",
-        "srcset": "images/outros-projetos-4-180.jpg 180w, images/outros-projetos-4-180_x2.jpg 360w,images/outros-projetos-4-300.jpg 300w, images/outros-projetos-4-300_x2.jpg 600w,images/outros-projetos-4-460.jpg 460w, images/outros-projetos-4-460_x2.jpg 920w,images/outros-projetos-4-720.jpg 720w, images/outros-projetos-4-720_x2.jpg 1440w,images/outros-projetos-4-1050.jpg 1050w, images/outros-projetos-4-1050_x2.jpg 2100w,images/outros-projetos-4-1440.jpg 1440w, images/outros-projetos-4-1440_x2.jpg 2880w,images/outros-projetos-4-2000.jpg 2000w, images/outros-projetos-4-2000_x2.jpg 4000w"
+        "src": "images/outros-projetos-4.jpg"
       }
     },
     {
@@ -501,8 +491,7 @@
         "slug": "outros-projetos-16.jpg",
         "caption": "Black man’s face, personal project, 2018",
         "caption-pt": "Rosto de homem negro, projeto pessoal, 2018",
-        "src": "images/outros-projetos-16-1050.jpg",
-        "srcset": "images/outros-projetos-16-180.jpg 180w, images/outros-projetos-16-180_x2.jpg 360w,images/outros-projetos-16-300.jpg 300w, images/outros-projetos-16-300_x2.jpg 600w,images/outros-projetos-16-460.jpg 460w, images/outros-projetos-16-460_x2.jpg 920w,images/outros-projetos-16-720.jpg 720w, images/outros-projetos-16-720_x2.jpg 1440w,images/outros-projetos-16-1050.jpg 1050w, images/outros-projetos-16-1050_x2.jpg 2100w,images/outros-projetos-16-1440.jpg 1440w, images/outros-projetos-16-1440_x2.jpg 2880w,images/outros-projetos-16-2000.jpg 2000w, images/outros-projetos-16-2000_x2.jpg 4000w"
+        "src": "images/outros-projetos-16.jpg"
       }
     },
     {
@@ -511,8 +500,7 @@
         "slug": "outros-projetos-21.jpg",
         "caption": "Illustration study for “A Morte de Ivan Illitch”, by Leo Tolstoy, published by Antofágica, 2020",
         "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Illitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020",
-        "src": "images/outros-projetos-21-1050.jpg",
-        "srcset": "images/outros-projetos-21-180.jpg 180w, images/outros-projetos-21-180_x2.jpg 360w,images/outros-projetos-21-300.jpg 300w, images/outros-projetos-21-300_x2.jpg 600w,images/outros-projetos-21-460.jpg 460w, images/outros-projetos-21-460_x2.jpg 920w,images/outros-projetos-21-720.jpg 720w, images/outros-projetos-21-720_x2.jpg 1440w,images/outros-projetos-21-1050.jpg 1050w, images/outros-projetos-21-1050_x2.jpg 2100w,images/outros-projetos-21-1440.jpg 1440w, images/outros-projetos-21-1440_x2.jpg 2880w,images/outros-projetos-21-2000.jpg 2000w, images/outros-projetos-21-2000_x2.jpg 4000w"
+        "src": "images/outros-projetos-21.jpg"
       }
     }
   ]

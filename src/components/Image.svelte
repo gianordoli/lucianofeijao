@@ -20,15 +20,20 @@
     height: auto;
 	}
 
+  .caption {
+    font-size: 0.875rem;
+    text-align: left;
+  }
+
   @media screen and (min-width: 740px) {
 
-    .caption {
+    /* .caption {
 			opacity: 0;
 			transition: opacity 0.25s ease-out;
-		}		
+		}
 
     .image-container:hover .caption {
       opacity: 1;
-    }
+    } */
   }
 </style>

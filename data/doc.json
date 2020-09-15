@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "value": "Luciano Feijão is an educator, artist and illustrator born in Vitória, Brazil. His latest exhibits examine racial-ethnic themes, portraying the black population in opposition to the processes of stigmatization and annihilation it has been subjected to."
+      "value": "Luciano Feijão is an educator, artist and illustrator born in Vitória, Brazil. His latest exhibitions examine racial-ethnic themes, portraying the black population as a form of resistance against the processes of stigmatization and annihilation it has been subjected to."
     },
     {
       "type": "text",
@@ -181,7 +181,7 @@
   ],
   "work": [
     {
-      "type": "image.medium",
+      "type": "image.medium#cover",
       "value": {
         "slug": "torcoes-3.jpg",
         "caption": "Torções, 2020"
@@ -237,7 +237,7 @@
       }
     },
     {
-      "type": "image",
+      "type": "image.medium",
       "value": {
         "slug": "a-morte-de-ivan-illitch-4.jpg",
         "caption": "Illustration for the book “The Death of Ivan Illitch,” by Leo Tolstoy, published by Antofágica, 2020"
@@ -268,7 +268,7 @@
       "type": "image.small",
       "value": {
         "slug": "outros-projetos-10.jpg",
-        "caption": "Illustration for the book “O Orangotango Marxista”, by Marcelo Rubens Paiva, published by Companhia das Letras, 2018",
+        "caption": "Illustration for the book “O Orangotango Marxista,” by Marcelo Rubens Paiva, published by Companhia das Letras, 2018",
         "caption-pt": "Ilustração para a capa do livro “O Orangotango Marxista”, de Marcelo Rubens Paiva, publicado pela editora Companhia das Letras, 2018"
       }
     },
@@ -375,7 +375,7 @@
       }
     },
     {
-      "type": "image",
+      "type": "image.medium",
       "value": {
         "slug": "diario-do-hospicio-1.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
