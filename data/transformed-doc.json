@@ -327,6 +327,7 @@
       "value": {
         "slug": "diario-do-hospicio-6.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020",
+        "classes": "medium",
         "src": "images/diario-do-hospicio-6-1050.jpg",
         "srcset": "images/diario-do-hospicio-6-180.jpg 180w, images/diario-do-hospicio-6-180_x2.jpg 360w,images/diario-do-hospicio-6-300.jpg 300w, images/diario-do-hospicio-6-300_x2.jpg 600w,images/diario-do-hospicio-6-460.jpg 460w, images/diario-do-hospicio-6-460_x2.jpg 920w,images/diario-do-hospicio-6-720.jpg 720w, images/diario-do-hospicio-6-720_x2.jpg 1440w,images/diario-do-hospicio-6-1050.jpg 1050w, images/diario-do-hospicio-6-1050_x2.jpg 2100w,images/diario-do-hospicio-6-1440.jpg 1440w, images/diario-do-hospicio-6-1440_x2.jpg 2880w,images/diario-do-hospicio-6-2000.jpg 2000w, images/diario-do-hospicio-6-2000_x2.jpg 4000w"
       }
