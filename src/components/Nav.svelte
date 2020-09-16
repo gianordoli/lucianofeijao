@@ -40,6 +40,7 @@
 		vertical-align: text-bottom;
 		position: relative;
 		font-weight: bold;
+		color: inherit;
 	}
 
 	[aria-current]::after {
