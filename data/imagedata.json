@@ -195,6 +195,21 @@
 		"hasRetina": true
 	},
 	{
+		"slug": "outros-projetos-15",
+		"extension": "jpg",
+		"ratio": 0.7071867755266606,
+		"sizes": [
+			180,
+			300,
+			460,
+			720,
+			1050,
+			1440,
+			2000
+		],
+		"hasRetina": true
+	},
+	{
 		"slug": "outros-projetos-5",
 		"extension": "jpg",
 		"ratio": 0.7240566037735849,

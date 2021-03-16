@@ -62,15 +62,15 @@
         },
         {
           "title": "Engraving Research Group",
-          "info": "Papel, Lugar, Data"
+          "info": "Founding member, Espírito Santo Federal University, 2011–2014"
         },
         {
           "title": "Editorial Illustration Research Group",
-          "info": "Papel, Lugar, Data"
+          "info": "Coordinator, Espírito Santo Federal University, 2014–present"
         },
         {
           "title": "Visual Narratives and Illustration Seminar",
-          "info": "Founding member"
+          "info": "Founding member, Centro Cultural Sesc Glória, 2016–2019"
         }
       ]
     },
@@ -368,7 +368,9 @@
         "src": "images/diario-do-hospicio-2-1050.jpg",
         "srcset": "images/diario-do-hospicio-2-180.jpg 180w, images/diario-do-hospicio-2-180_x2.jpg 360w,images/diario-do-hospicio-2-300.jpg 300w, images/diario-do-hospicio-2-300_x2.jpg 600w,images/diario-do-hospicio-2-460.jpg 460w, images/diario-do-hospicio-2-460_x2.jpg 920w,images/diario-do-hospicio-2-720.jpg 720w, images/diario-do-hospicio-2-720_x2.jpg 1440w,images/diario-do-hospicio-2-1050.jpg 1050w, images/diario-do-hospicio-2-1050_x2.jpg 2100w,images/diario-do-hospicio-2-1440.jpg 1440w, images/diario-do-hospicio-2-1440_x2.jpg 2880w,images/diario-do-hospicio-2-2000.jpg 2000w, images/diario-do-hospicio-2-2000_x2.jpg 4000w"
       }
-    },
+    }
+  ],
+  "ignore": [
     {
       "type": "image",
       "value": {
@@ -379,9 +381,7 @@
         "src": "images/outros-projetos-6-1050.jpg",
         "srcset": "images/outros-projetos-6-180.jpg 180w, images/outros-projetos-6-180_x2.jpg 360w,images/outros-projetos-6-300.jpg 300w, images/outros-projetos-6-300_x2.jpg 600w,images/outros-projetos-6-460.jpg 460w, images/outros-projetos-6-460_x2.jpg 920w,images/outros-projetos-6-720.jpg 720w, images/outros-projetos-6-720_x2.jpg 1440w,images/outros-projetos-6-1050.jpg 1050w, images/outros-projetos-6-1050_x2.jpg 2100w,images/outros-projetos-6-1440.jpg 1440w, images/outros-projetos-6-1440_x2.jpg 2880w,images/outros-projetos-6-2000.jpg 2000w, images/outros-projetos-6-2000_x2.jpg 4000w"
       }
-    }
-  ],
-  "ignore": [
+    },
     {
       "type": "image",
       "value": {
@@ -506,10 +506,11 @@
     {
       "type": "image",
       "value": {
-        "slug": "outros-projetos-21.jpg",
+        "slug": "outros-projetos-15.jpg",
         "caption": "Illustration study for “A Morte de Ivan Illitch”, by Leo Tolstoy, published by Antofágica, 2020",
         "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Illitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020",
-        "src": "images/outros-projetos-21.jpg"
+        "src": "images/outros-projetos-15-1050.jpg",
+        "srcset": "images/outros-projetos-15-180.jpg 180w, images/outros-projetos-15-180_x2.jpg 360w,images/outros-projetos-15-300.jpg 300w, images/outros-projetos-15-300_x2.jpg 600w,images/outros-projetos-15-460.jpg 460w, images/outros-projetos-15-460_x2.jpg 920w,images/outros-projetos-15-720.jpg 720w, images/outros-projetos-15-720_x2.jpg 1440w,images/outros-projetos-15-1050.jpg 1050w, images/outros-projetos-15-1050_x2.jpg 2100w,images/outros-projetos-15-1440.jpg 1440w, images/outros-projetos-15-1440_x2.jpg 2880w,images/outros-projetos-15-2000.jpg 2000w, images/outros-projetos-15-2000_x2.jpg 4000w"
       }
     }
   ]

@@ -60,15 +60,15 @@
         },
         {
           "title": "Engraving Research Group",
-          "info": "Papel, Lugar, Data"
+          "info": "Founding member, Espírito Santo Federal University, 2011–2014"
         },
         {
           "title": "Editorial Illustration Research Group",
-          "info": "Papel, Lugar, Data"
+          "info": "Coordinator, Espírito Santo Federal University, 2014–present"
         },
         {
           "title": "Visual Narratives and Illustration Seminar",
-          "info": "Founding member"
+          "info": "Founding member, Centro Cultural Sesc Glória, 2016–2019"
         }
       ]
     },
@@ -315,7 +315,9 @@
         "slug": "diario-do-hospicio-2.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
       }
-    },
+    }
+  ],
+  "ignore": [
     {
       "type": "image.medium",
       "value": {
@@ -323,9 +325,7 @@
         "caption": "Deserto Gráfico, 2012",
         "caption-pt": "Exposição Deserto Gráfico, Galeria Homero Massena, Vitória, 2012"
       }
-    }
-  ],
-  "ignore": [
+    },
     {
       "type": "image.medium",
       "value": {
@@ -430,7 +430,7 @@
     {
       "type": "image",
       "value": {
-        "slug": "outros-projetos-21.jpg",
+        "slug": "outros-projetos-15.jpg",
         "caption": "Illustration study for “A Morte de Ivan Illitch”, by Leo Tolstoy, published by Antofágica, 2020",
         "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Illitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020"
       }
