@@ -291,6 +291,14 @@
     {
       "type": "image.medium",
       "value": {
+        "slug": "outros-projetos-15.jpg",
+        "caption": "“Little Thumb,” illustration for MACLI – children’s book exhibit",
+        "caption-pt": "“Pequeno Polegar”, para exposição MACLI - Mostra de Arte Contemporânea em Literatura Infantil"
+      }
+    },
+    {
+      "type": "image.medium",
+      "value": {
         "slug": "diario-do-hospicio-6.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020"
       }
@@ -425,14 +433,6 @@
         "slug": "outros-projetos-16.jpg",
         "caption": "Black man’s face, personal project, 2018",
         "caption-pt": "Rosto de homem negro, projeto pessoal, 2018"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "outros-projetos-15.jpg",
-        "caption": "Illustration study for “A Morte de Ivan Illitch”, by Leo Tolstoy, published by Antofágica, 2020",
-        "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Illitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020"
       }
     }
   ]

@@ -333,6 +333,17 @@
     {
       "type": "image",
       "value": {
+        "slug": "outros-projetos-15.jpg",
+        "caption": "“Little Thumb,” illustration for MACLI – children’s book exhibit",
+        "caption-pt": "“Pequeno Polegar”, para exposição MACLI - Mostra de Arte Contemporânea em Literatura Infantil",
+        "classes": "medium",
+        "src": "images/outros-projetos-15-1050.jpg",
+        "srcset": "images/outros-projetos-15-180.jpg 180w, images/outros-projetos-15-180_x2.jpg 360w,images/outros-projetos-15-300.jpg 300w, images/outros-projetos-15-300_x2.jpg 600w,images/outros-projetos-15-460.jpg 460w, images/outros-projetos-15-460_x2.jpg 920w,images/outros-projetos-15-720.jpg 720w, images/outros-projetos-15-720_x2.jpg 1440w,images/outros-projetos-15-1050.jpg 1050w, images/outros-projetos-15-1050_x2.jpg 2100w,images/outros-projetos-15-1440.jpg 1440w, images/outros-projetos-15-1440_x2.jpg 2880w,images/outros-projetos-15-2000.jpg 2000w, images/outros-projetos-15-2000_x2.jpg 4000w"
+      }
+    },
+    {
+      "type": "image",
+      "value": {
         "slug": "diario-do-hospicio-6.jpg",
         "caption": "Illustration for the book “Diário do hospício,” by Lima Barreto, published by Borda Editorial, 2020",
         "classes": "medium",
@@ -501,16 +512,6 @@
         "caption": "Black man’s face, personal project, 2018",
         "caption-pt": "Rosto de homem negro, projeto pessoal, 2018",
         "src": "images/outros-projetos-16.jpg"
-      }
-    },
-    {
-      "type": "image",
-      "value": {
-        "slug": "outros-projetos-15.jpg",
-        "caption": "Illustration study for “A Morte de Ivan Illitch”, by Leo Tolstoy, published by Antofágica, 2020",
-        "caption-pt": "Estudo para ilustração do livro “A Morte de Ivan Illitch”, de Liev Tolstói, publicado pela Editora Antofágica, 2020",
-        "src": "images/outros-projetos-15-1050.jpg",
-        "srcset": "images/outros-projetos-15-180.jpg 180w, images/outros-projetos-15-180_x2.jpg 360w,images/outros-projetos-15-300.jpg 300w, images/outros-projetos-15-300_x2.jpg 600w,images/outros-projetos-15-460.jpg 460w, images/outros-projetos-15-460_x2.jpg 920w,images/outros-projetos-15-720.jpg 720w, images/outros-projetos-15-720_x2.jpg 1440w,images/outros-projetos-15-1050.jpg 1050w, images/outros-projetos-15-1050_x2.jpg 2100w,images/outros-projetos-15-1440.jpg 1440w, images/outros-projetos-15-1440_x2.jpg 2880w,images/outros-projetos-15-2000.jpg 2000w, images/outros-projetos-15-2000_x2.jpg 4000w"
       }
     }
   ]
