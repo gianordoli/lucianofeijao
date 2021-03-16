@@ -18,7 +18,7 @@
     .page-work {
       display: flex;
       flex-direction: row;
-      align-items: top;
+      align-items: flex-end;
       flex-wrap: wrap;
       justify-content: center;
     }

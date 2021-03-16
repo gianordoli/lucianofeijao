@@ -10,7 +10,7 @@
 		background-color: white;
 		margin: 0 auto;
     box-sizing: border-box;
-    padding: calc(var(--layout-padding) + var(--layout-stroke-width));    
+    padding: calc(var(--layout-padding) * 1.5 + var(--layout-stroke-width));    
   }
   
   main:after {
