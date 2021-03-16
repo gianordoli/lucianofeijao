@@ -14,7 +14,6 @@
 <style>
 
   .page-about {
-    margin-top: var(--layout-margin-top);
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;    
@@ -28,6 +27,10 @@
 
   @media screen and (min-width: 740px) {
 
+    .page-about {
+      margin-top: calc(var(--layout-padding) * 2.5);
+    }    
+
     .page-about :global(.teaching, .solo-exhibitions) {
       width: 50%;
       display: inline-block;
@@ -37,7 +40,13 @@
     .page-about :global(.group-exhibitions ul) {
       columns: 2;
       column-gap: 0;
-    }    
+    }
+  }
 
+  @media screen and (min-width: 1240px) {
+
+    .page-about {
+      margin-top: 0;
+    }
   }
 </style>

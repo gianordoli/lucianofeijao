@@ -13,11 +13,6 @@
 <style>
 	nav {
 		box-sizing: border-box;
-		position: fixed;
-		top: 0;
-		left: 0;
-		width: 100%;
-		z-index: 1;
 		padding: calc(var(--layout-padding)*1.25) calc(var(--layout-padding)*1.25) 0;
 	}
 
@@ -26,6 +21,10 @@
 	}	
 
 	ul {
+		position: fixed;
+		z-index: 1;
+		top: calc(var(--layout-padding)*0.5);
+		right: calc(var(--layout-padding)*1.25);
 		display: table;
 	}
 
@@ -56,10 +55,19 @@
 	@media screen and (min-width: 740px) {
 
 		nav {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			z-index: 1;			
 			padding: calc(var(--layout-padding)*2) calc(var(--layout-padding)*2.5) 0;
 			display: flex;
 			justify-content: space-between;
 			align-items: baseline;
+		}
+
+		ul {
+			position: static;
 		}
 
 		/* clearfix */
